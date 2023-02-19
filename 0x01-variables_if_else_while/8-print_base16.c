@@ -16,7 +16,7 @@ int main(void)
 
 	for (n = 0; n < 16; n++)
 	{
-		putchar(number[n]);
+		putchar(tolower(number[n]));
 	}
 
 	putchar('\n');
