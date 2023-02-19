@@ -3,7 +3,7 @@
 #include <time.h>
 #include <ctype.h>
 /**
- * main - a program that prints the alphabet in lowercase, follwd by a new line
+ * main - a program that prints out the alphabet using g putchar
  *
  * Return: Always 0 (success)
 */
