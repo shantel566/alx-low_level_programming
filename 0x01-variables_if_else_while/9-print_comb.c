@@ -19,7 +19,7 @@ int main(void)
 		if (number[n] != '9')
 		{
 			putchar(',');
-			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
