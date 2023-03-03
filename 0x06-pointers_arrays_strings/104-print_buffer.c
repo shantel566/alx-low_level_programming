@@ -1,5 +1,7 @@
 #include "main.h"
+
 #include <stdio.h>
+
 /**
  * print_buffer - prints buffer
  * @b: buffer
@@ -43,6 +45,6 @@ void print_buffer(char *b, int size)
 			printf("%c", c);
 		}
 		printf("\n");
-		o + =  10;
-        }
+		
+	}
 }
