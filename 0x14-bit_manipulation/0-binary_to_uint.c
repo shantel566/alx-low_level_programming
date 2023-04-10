@@ -2,13 +2,13 @@
 
 /**
  * binary_to_uint - converts a binary number to unsigned int
- * @b: string containing the binary number
+ * @b: string contains binary number
  *
  * Return: the converted number
  */
 unsigned int binary_to_uint(const char *b)
 {
-	int i;
+	int k;
 	unsigned int dec_val = 0;
 
 	if (!b)
